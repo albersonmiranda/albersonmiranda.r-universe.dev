@@ -3,5 +3,10 @@
         "package": "fio",
         "url": "https://github.com/albersonmiranda/fio",
         "branch": "main"
+    },
+    {
+        "package": "fiorefactor",
+        "url": "https://github.com/albersonmiranda/fiorefactor",
+        "branch": "main"
     }
 ]
